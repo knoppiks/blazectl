@@ -1,0 +1,7 @@
+*
+!cmd/
+!fhir/
+!util/
+!main.go
+!go.mod
+!go.sum
